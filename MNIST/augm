@@ -1,0 +1,4 @@
+input_data - 60k, normal - 99.52 max
+input_data2 - 200k, rotation_range = 10, zoom_range = 0.05 - 99.51 max
+input_data3 - 200k, rotation_range = 10, shear_range = 20, zoom_range = [1, 1.2] - 99.22 max
+input_data4 - 300k, rotation_range = 30, width_shift_range = 0.25, height_shift_range = 0.25, shear_range = 45, zoom_range=[0.5,1.5]
